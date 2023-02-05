@@ -12,6 +12,11 @@ export class RecipeListComponent {
       'https://images.ctfassets.net/' +
       '314o13npeir2/BSe9tS2H4ayHBWmf58S7G/' +
       '322852b8d00f3075addd563bf554cb52/' +
+      'kemences-pizza-budapest-14.jpg?w=1200&fl=progressive&q=80'),
+    new Recipe('A test recipe', 'this is a description',
+      'https://images.ctfassets.net/' +
+      '314o13npeir2/BSe9tS2H4ayHBWmf58S7G/' +
+      '322852b8d00f3075addd563bf554cb52/' +
       'kemences-pizza-budapest-14.jpg?w=1200&fl=progressive&q=80')
   ];
 }
